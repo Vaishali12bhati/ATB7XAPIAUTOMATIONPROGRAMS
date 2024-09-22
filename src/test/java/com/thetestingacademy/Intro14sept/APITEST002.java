@@ -1,4 +1,4 @@
-package com.thetestingacademy;
+package com.thetestingacademy.Intro14sept;
 
 import io.restassured.RestAssured;
 
