@@ -29,10 +29,12 @@ public class Lab015Nonbddput {
 RequestSpecification requestSpecification;
 ValidatableResponse validatableResponse;
 Response response;
+
+
         @Test
     public void test_put_positive_tc(){
-         String booking_id =  "2612";
-         String token = "e923a1f69d21ef6";
+         String booking_id =  "7853";
+         String token = "01366259f3ed2a3";
          String payoadput = "{\n" +
                  "    \"firstname\" : \"news\",\n" +
                  "    \"lastname\" : \"testings\",\n" +

@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/ADMIN/IdeaProjects/ATB7XAPIAUTOMATIONPROGRAMS"><classes><class name="com.thetestingacademy.Testng.Lab011bddstyle"><methods><include name="get"/></methods></class><class name="com.thetestingacademy.Testng.Lab012nonbddstyle"><methods><include name="post"/></methods></class><class name="com.thetestingacademy.Testng.Lab013differenttestngannotation"><methods><include name="demo4"/></methods></class><class name="com.thetestingacademy.Testng.Lab014diifannoex"><methods><include name="demo4"/></methods></class><class name="com.thetestingacademy.ex15092024CRUD.PUT.Lab015Nonbddput"><methods><include name="test_put_positive_tc"/></methods></class></classes></test></suite>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/ADMIN/IdeaProjects/ATB7XAPIAUTOMATIONPROGRAMS">
+        <classes><class name="com.thetestingacademy.Testng.Lab011bddstyle">
+            <methods><include name="get"/>
+            </methods>
+        </class>
+            <class name="com.thetestingacademy.Testng.Lab012nonbddstyle">
+                <methods><include name="post"/>
+                </methods></class>
+            <class name="com.thetestingacademy.Testng.Lab013differenttestngannotation"><methods><include name="demo4"/></methods></class><class name="com.thetestingacademy.Testng.Lab014diifannoex"><methods><include name="demo4"/></methods></class><class name="com.thetestingacademy.ex15092024CRUD.PUT.Lab015Nonbddput"><methods><include name="test_put_positive_tc"/></methods></class></classes></test></suite>

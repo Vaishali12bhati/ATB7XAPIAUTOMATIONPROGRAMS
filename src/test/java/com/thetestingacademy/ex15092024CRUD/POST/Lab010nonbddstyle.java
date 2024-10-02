@@ -8,9 +8,11 @@ import io.restassured.specification.RequestSpecification;
 
 public class Lab010nonbddstyle {
     static RequestSpecification r = RestAssured.given();
-    public static void main(String[] args) {
+    public void getTokennonbdd() {
         String payload = "{\"username\" : \"admin\",\n" +
                 "                          \"password\" : \"password123\"}";
+
+        //given
         r.basePath("/auth");
         r.baseUri("https://restful-booker.herokuapp.com");
         r.contentType(ContentType.JSON);
