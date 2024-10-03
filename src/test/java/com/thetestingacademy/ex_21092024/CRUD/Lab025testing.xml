@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-    <test verbose="2" preserve-order="true" name="C:/Users/ADMIN/IdeaProjects/ATB7XAPIAUTOMATIONPROGRAMS">
+    <test verbose="2" preserve-order="true" name="ATB7XAPIAUTOMATIONPROGRAMS">
         <classes>
-            <class name="com.thetestingacademy.ex_15092024CRUD.PUT.Lab015Nonbddput">
+            <class name="com.thetestingacademy.ex_21092024.CRUD.Lab025TestIntergration">
             </class>
         </classes>
     </test>
