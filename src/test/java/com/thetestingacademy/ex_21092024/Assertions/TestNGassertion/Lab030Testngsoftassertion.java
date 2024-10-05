@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_21092024.Assertions;
+package com.thetestingacademy.ex_21092024.Assertions.TestNGassertion;
 
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;

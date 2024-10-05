@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_21092024.Assertions;
+package com.thetestingacademy.ex_21092024.Assertions.Hamcrestassertion;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
