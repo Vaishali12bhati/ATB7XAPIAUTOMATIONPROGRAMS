@@ -15,6 +15,8 @@ public class Lab025TestIntergration {
     //perform put
     //perform put is get by GET request
     //delete request
+
+
     static RequestSpecification requestSpecification;
    static ValidatableResponse validatableResponse;
    static Response response;
